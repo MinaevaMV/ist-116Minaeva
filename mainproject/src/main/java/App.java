@@ -13,7 +13,7 @@ public class App {
         Scanner readfile = new Scanner(file);
         int a = Integer.parseInt(readfile.next());
         int b = Integer.parseInt(readfile.next());
-        System.out.println("Commit #2");
+        System.out.println("Commit #5");
         System.out.println("Result nod = " + Evklid.nok(a,b));
         System.out.println("Result nok = " + SupportEvklid.nod(a,b));
     }

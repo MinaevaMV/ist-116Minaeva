@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainproject/mainproject.iml" filepath="$PROJECT_DIR$/.idea/modules/mainproject/mainproject.iml" group="mainproject" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainproject/mainproject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mainproject/mainproject_main.iml" group="mainproject" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainproject/mainproject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mainproject/mainproject_test.iml" group="mainproject" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleEvklid.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleEvklid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleEvklid.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleEvklid.iml" group="moduleEvklid" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleEvklid_main.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleEvklid_main.iml" group="moduleEvklid" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleEvklid_test.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleEvklid_test.iml" group="moduleEvklid" />
     </modules>
