@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ist-116Minaeva.iml" filepath="$PROJECT_DIR$/ist-116Minaeva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ist-116MinaevaM.iml" filepath="$PROJECT_DIR$/ist-116MinaevaM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainproject/mainproject.iml" filepath="$PROJECT_DIR$/.idea/modules/mainproject/mainproject.iml" group="mainproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainproject/mainproject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mainproject/mainproject_main.iml" group="mainproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainproject/mainproject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mainproject/mainproject_test.iml" group="mainproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleEvklid.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleEvklid.iml" group="moduleEvklid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleEvklid_main.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleEvklid_main.iml" group="moduleEvklid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleEvklid_test.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleEvklid_test.iml" group="moduleEvklid" />
     </modules>
   </component>
 </project>

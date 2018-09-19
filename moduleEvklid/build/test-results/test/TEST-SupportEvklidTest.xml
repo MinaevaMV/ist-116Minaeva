@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SupportEvklidTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-09-19T22:28:06" hostname="Computer" time="0.146">
+  <properties/>
+  <testcase name="stressTestOne" classname="SupportEvklidTest" time="0.002"/>
+  <testcase name="stressTestTwo" classname="SupportEvklidTest" time="0.004"/>
+  <testcase name="simpleTest" classname="SupportEvklidTest" time="0.0"/>
+  <testcase name="testNod" classname="SupportEvklidTest" time="0.001"/>
+  <testcase name="teststressTestThree" classname="SupportEvklidTest" time="0.137"/>
+  <testcase name="randomTest" classname="SupportEvklidTest" time="0.0"/>
+  <testcase name="testSimple" classname="SupportEvklidTest" time="0.0"/>
+  <testcase name="negTest" classname="SupportEvklidTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
