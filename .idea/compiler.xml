@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ist-116MinaevaM_main" target="1.9" />
+      <module name="ist-116MinaevaM_test" target="1.9" />
+      <module name="mainproject_main" target="1.9" />
+      <module name="mainproject_test" target="1.9" />
+      <module name="moduleEvklid_main" target="1.8" />
+      <module name="moduleEvklid_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
